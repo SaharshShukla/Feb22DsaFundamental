@@ -1,4 +1,4 @@
-/*3. https://leetcode.com/problems/powx-n/ "*/
+/*3. https://leetcode.com/problems/k-th-symbol-in-grammar/  */
 package march.week2.assignment9;
 
 public class Qst3 {
